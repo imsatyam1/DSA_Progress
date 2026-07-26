@@ -21,12 +21,12 @@ I update this repository regularly as I solve new problems across different plat
 
 ## Goals
 
-- ✅ Build strong problem-solving skills
-- ✅ Master Data Structures & Algorithms
-- ✅ Prepare for coding interviews
-- ✅ Improve coding speed and accuracy
-- ✅ Learn multiple approaches to the same problem
-- ✅ Maintain consistency by solving problems every day
+-  Build strong problem-solving skills
+-  Master Data Structures & Algorithms
+-  Prepare for coding interviews
+-  Improve coding speed and accuracy
+-  Learn multiple approaches to the same problem
+-  Maintain consistency by solving problems every day
 
 ---
 
@@ -85,13 +85,13 @@ It motivates me to keep learning and sharing.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 **GitHub:** https://github.com/imsatyam1
 
 **LinkedIn:** https://linkedin.com/in/imsatyam
 
-**X:https://x.com/imsatyam2611** 
+**X:** https://x.com/imsatyam2611 
 
 ---
 
